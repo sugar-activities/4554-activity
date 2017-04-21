@@ -1,0 +1,31 @@
+v6 2012-04-15
+* Corrected some errors in translations.
+
+v5 2012-04-12
+* New upstream release (4.2.1):
+  + Change help system.
+  + Adjust window app size to Sugar.
+  + Corrected some errors in translation.
+
+v4 2012-04-11
+* Changed the boot of the activity.
+  Adapted from CeibalJAM! (http://activities.ceibaljam.org).
+  + Add the activity.py script.
+* Adapted to the OLPC screen application window.
+* Add $SUGAR_BUNDLE_PATH to the Java activity
+  export path.
+* Update the Name field into activity.info file.
+
+v3 2012-04-08
+* Remove the jre directory
+  (Thanks to Alan Jhonn Aguiar Schwyn).
+  and changes the export path.
+* Add show_launcher field into activity.info file.
+
+v2 2012-04-07
+* Several changes to the Sugar standards:
+  + Adjustment of the dimensions of the window.
+  + Change the dimensions of the icon.
+
+v1 2012-04-06
+* Initial release

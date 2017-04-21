@@ -1,0 +1,10 @@
+[Activity]
+name = JPeces-Tangram
+activity_version = 6
+host_version = 1
+bundle_id = org.jpeces
+license = GPLv2+
+icon = peces
+exec = jpeces
+requires = java
+show_launcher = yes
